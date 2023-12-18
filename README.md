@@ -6,4 +6,7 @@
 ![image](https://github.com/mvplab-yonsei/ReIdentification/assets/80297707/9c4cb13e-a594-4a85-ba35-81f54325e1d3)
 
 # Download dataset
-데이터 셋 요청 및 문의는 mjkima@yonsei.ac.kr
+데이터 셋 요청은 데이터 셋 이용 동의서 작성 후 mjkima@yonsei.ac.kr로 메일 보내시기 바랍니다.
+
+데이터 셋 이용 동의서: [DATASET RELEASE AGREEMENT.pdf](https://github.com/mvplab-yonsei/ReIdentification/files/13702096/DATASET.RELEASE.AGREEMENT.pdf)
+
